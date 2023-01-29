@@ -1,0 +1,15 @@
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\bin\Debug\net6.0\TASK.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\bin\Debug\net6.0\TASK.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\bin\Debug\net6.0\TASK.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\bin\Debug\net6.0\TASK.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\refint\TASK.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\5.-База данных\СЕМИНАРЫ\дз\ДЗ Итоги блока. Выбор специализации\home work Select specialization\Choose of specialization\Tasks\TASK\obj\Debug\net6.0\ref\TASK.dll
