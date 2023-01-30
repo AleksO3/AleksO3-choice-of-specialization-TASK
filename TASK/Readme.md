@@ -45,4 +45,4 @@
 
 <br>
 
-[<image style="width:100%" src=".webp">](Choose-of-specialization.drawio)
+[<image style="width:100%" src="Блок-схема-TASK.webp">](Choose-of-specialization.drawio)
