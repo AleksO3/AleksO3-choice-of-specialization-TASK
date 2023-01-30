@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\5.-База данных\\СЕМИНАРЫ\\дз\\ДЗ Итоги блока. Выбор специализации\\home work Select specialization\\Choose of specialization\\Tasks\\TASK\\TASK.csproj",
+      "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\5.-База данных\\СЕМИНАРЫ\\дз\\ДЗ Итоги блока. Выбор специализации\\home work Select specialization\\Choose of specialization\\TASK\\TASK.csproj",
       "projectName": "TASK",
-      "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\5.-База данных\\СЕМИНАРЫ\\дз\\ДЗ Итоги блока. Выбор специализации\\home work Select specialization\\Choose of specialization\\Tasks\\TASK\\TASK.csproj",
+      "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\5.-База данных\\СЕМИНАРЫ\\дз\\ДЗ Итоги блока. Выбор специализации\\home work Select specialization\\Choose of specialization\\TASK\\TASK.csproj",
       "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-      "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\5.-База данных\\СЕМИНАРЫ\\дз\\ДЗ Итоги блока. Выбор специализации\\home work Select specialization\\Choose of specialization\\Tasks\\TASK\\obj\\",
+      "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\5.-База данных\\СЕМИНАРЫ\\дз\\ДЗ Итоги блока. Выбор специализации\\home work Select specialization\\Choose of specialization\\TASK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"

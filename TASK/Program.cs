@@ -4,14 +4,14 @@
 Console.Clear();
                                                                         // Очищаем терминал.
 
-int ReadInt(string message)                                             // Метод внесения данных.
+int ReadInt(string message)                                             // Метод внесения данных и их записи.
 {
     Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());
 }
 
 int n = ReadInt("Введите колличество задаваемых строк: ");              // Записываем в переменную внесенное
-string[] arr = new string[n];                                           // пользователем значение вызвав метод и заносим в массив.
+string[] arr = new string[n];                                           // пользователем значение вызвав метод ReadInt и заносим в массив.
 
 for (int i = 0; i < n; i++)                                             // Запрашиваем у пользователя данные, используя цикл до числа = n,
 {                                                                       // сохраняя в массив  с помощью метода, вызывая его.
@@ -27,7 +27,7 @@ for (int i = 0; i < n; i++)
         count++;
     }
 }
-                                                                        // Создание нового массива с внесением массивов <= 3.
+                                                                        // Создание нового массива из массивов <= 3.
 string[] smallArr = new string[count];
 int j = 0;
 for (int i = 0; i < n; i++)
